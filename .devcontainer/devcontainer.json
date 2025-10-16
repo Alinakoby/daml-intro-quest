@@ -1,0 +1,7 @@
+{
+  "name": "Daml Dev Container",
+  "image": "digital-asset/daml:2.8.0",
+  "extensions": [
+    "digital-asset.daml"
+  ]
+}
