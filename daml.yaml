@@ -1,0 +1,10 @@
+sdk-version: 2.8.0
+name: intro1
+source: daml
+parties:
+  - Alice
+  - Bob
+dependencies:
+  - daml-prim
+  - daml-stdlib
+  - daml-script
